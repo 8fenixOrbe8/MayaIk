@@ -8,4 +8,4 @@ github_username:  8fenixOrbe8
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
